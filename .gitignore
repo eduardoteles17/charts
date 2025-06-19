@@ -3,6 +3,5 @@
 .vscode
 
 ### Helm template
-# Chart dependencies
-**/charts/*.tgz
+*.tgz
 
