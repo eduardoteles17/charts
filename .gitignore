@@ -1,0 +1,8 @@
+## IDE templates
+.idea
+.vscode
+
+### Helm template
+# Chart dependencies
+**/charts/*.tgz
+
